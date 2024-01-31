@@ -13,7 +13,6 @@
     "@cloudinary/url-gen": "^1.16.0",
     "@nanostores/react": "^0.7.1",
     "astro": "^4.2.4",
-    "cloudinary": "^1.41.3",
     "nanostores": "^0.9.5"
   }
 }
